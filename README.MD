@@ -1,2 +1,2 @@
-This is a tip calculator made for iPhones
-
+#Tip Calculator#
+This is a simple Universal tip calculator 
